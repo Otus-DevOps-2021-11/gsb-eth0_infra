@@ -1,7 +1,10 @@
 # gsb-eth0_infra
 gsb-eth0 Infra repository
 
-> bastion_IP = 51.250.11.234 someinternalhost_IP = 10.128.0.25
+```
+bastion_IP = 51.250.11.234 
+someinternalhost_IP = 10.128.0.25
+```
 
 # ***ssh подключение к серверу через bastion одной командой:***
 
