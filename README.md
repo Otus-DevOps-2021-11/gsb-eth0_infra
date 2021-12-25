@@ -2,7 +2,8 @@
 gsb-eth0 Infra repository
 
 ```
-testapp_IP = 51.250.1.68 testapp_port = 9292
+testapp_IP = 51.250.1.68 
+testapp_port = 9292
 ```
 # ***Создаем новый инстанс:***
 
