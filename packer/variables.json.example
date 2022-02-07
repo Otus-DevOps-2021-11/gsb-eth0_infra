@@ -1,5 +1,5 @@
 {
-    "yc_serv_acct_key": "key.json",
+    "yc_serv_acct_key": "packer/key.json",
     "yc_folder": "b1gtdab",
     "yc_subnet": "enp19si5"
 }
